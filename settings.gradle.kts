@@ -1,0 +1,1 @@
+rootProject.name = "module-19-build-tools-automation-tests"
